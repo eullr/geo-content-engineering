@@ -1,19 +1,6 @@
 ---
 name: geo-content-engineering
-description: >-
-  Create or rebuild web content so generative engines (ChatGPT, Gemini,
-  Perplexity, Google AI Overviews) extract, cite, and mention it. This is the
-  discipline called GEO (Generative Engine Optimization), also known as AI
-  visibility, LLM SEO, or answer engine optimization. Use this skill whenever the
-  user wants to write, restructure, or optimize any web page, article, guide,
-  landing page, pillar page, or FAQ for AI search visibility, citations, or brand
-  mentions. Trigger it when they mention GEO, generative engine optimization, AI
-  visibility, LLM SEO, answer engine optimization, semantic chunking, getting
-  cited by ChatGPT or Perplexity, or making content "AI-readable"; and also when
-  they ask softer versions like "help me write content that AI will recommend,"
-  "why doesn't ChatGPT mention my brand," or "how do I show up in AI answers."
-  Covers both new content creation and rebuilding existing pages, plus the
-  Share-of-Mentions measurement loop.
+description: "Create or rebuild web content so generative engines (ChatGPT, Gemini, Perplexity, Google AI Overviews) extract, cite, and mention it. This is the discipline called GEO (Generative Engine Optimization), also known as AI visibility, LLM SEO, or answer engine optimization. Use this skill whenever the user wants to write, restructure, or optimize any web page, article, guide, landing page, pillar page, or FAQ for AI search visibility, citations, or brand mentions. Trigger it when they mention GEO, generative engine optimization, AI visibility, LLM SEO, answer engine optimization, semantic chunking, getting cited by ChatGPT or Perplexity, or making content \"AI-readable\"; and also when they ask softer versions like \"help me write content that AI will recommend,\" \"why doesn't ChatGPT mention my brand,\" or \"how do I show up in AI answers.\" Covers both new content creation and rebuilding existing pages, plus the Share-of-Mentions measurement loop."
 license: CC-BY-4.0
 metadata:
   version: 1.0.0
